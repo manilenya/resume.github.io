@@ -1,0 +1,7 @@
+/* Resume - Annalyn Aguilar is prepared by me (Annalyn Aguilar) */
+/* github.com/manilenya */
+/* humanstxt.org */
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Software: Coda, Sublime 2, Git
